@@ -21,10 +21,6 @@
 
 ## Supported instructions
 - MOV [val or src] [dst] - Moves data between memory and registers (Data segment sets manually)
-    - MEM to MEM
-    - MEM to REG
-    - REG to MEM
-    - REG to REG
 - ADD [val] - Adds an argument to a value in the A register
 - SUB [val] - Subtracts the argument to a value in the A register
 - JMP [addr] - Jumps to the specified 8-bit address within the segment (short jump)

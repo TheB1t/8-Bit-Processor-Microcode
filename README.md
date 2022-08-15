@@ -1,6 +1,6 @@
 # 8-Bit processor microcode
 ## Architecture schematic
-![alt text] (https://raw.githubusercontent.com/TheB1t/8-Bit-Processor-Microcode/main/pictures/schematic.png)
+![alt text](https://raw.githubusercontent.com/TheB1t/8-Bit-Processor-Microcode/main/pictures/schematic.png)
 
 ## Architecture features
 - 8-Bit data bus

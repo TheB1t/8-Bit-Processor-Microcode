@@ -1,6 +1,6 @@
 # 8-Bit processor microcode
 ## Architecture schematic
-![alt text] (pictures/schematic.png)
+![alt text] (/pictures/schematic.png)
 
 ## Architecture features
 - 8-Bit data bus

@@ -39,5 +39,5 @@
 - CALL [addr] - Calling a function address
 - RET - Return from function
 - LJMP [addr] - Jumps to the specified 16-bit address (long jump)
-- OUTB [addr] [value] - Set byte in port
+- OUTB [addr] [value] - Send byte in port
 - HLT - Halt executing
